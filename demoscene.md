@@ -8,7 +8,7 @@ backgroundColor: #fff
 
 # Demoscene
 <!-- tests avec des images random -->
-![bg left:60%](https://i.ytimg.com/vi/JZ6ZzJeWgpY/maxresdefault.jpg)
+![bg left:50%](https://i.ytimg.com/vi/JZ6ZzJeWgpY/maxresdefault.jpg)
 ![bg](https://i.ytimg.com/vi/O4T7pIs--LA/maxresdefault.jpg)
 ![bg](https://i.ytimg.com/vi/t6jlhqNxRYk/maxresdefault.jpg)
 
@@ -23,10 +23,11 @@ backgroundColor: #fff
 
 ---
 
-# Histoire rapide
-- 1980 : essor de la scène avec les ordinateurs personnels (copyparty)
+# Historique
+- 1980 : émergence de la scène (copyparty)
   - échanges de logiciels cracké avec souvent des petites animations et de la musique (intro)
 - 1990 : premières démoparty, interdiction des activités illégales
+- 2000 : pique de popularité des LAN-Party
 - 2020 : la Finland est le premier pays à inclure la démoscene sur la liste du Patrimoine culturel immatériel de l’UNESCO
 
 
@@ -35,29 +36,47 @@ backgroundColor: #fff
 
 ---
 
-# Les premières démos
-*liens youtube ou gif ?*
-*point de référence pour comparer l'évolution des effets*
+# Historique
+![assembly 2004](https://upload.wikimedia.org/wikipedia/commons/e/ea/Assembly2004-areena01.jpg)
+![revision 2024](https://pbs.twimg.com/media/GKO2i_uXUAAsCRI?format=jpg)
 
 ---
 
-# Types de démos
-*liste des catégorie ?*
-*intro, demo, ascii, petscii, tracker, shader, ...*
-
----
-
-# Technique
-*un ou plusieurs slides technique*
-*explication de certains effets ?*
-<!--
-article au pif que j'ai trouvé : https://nickm.com/post/tag/demoscene/
+# Démo d'époque
+Objectif : repousser les limites techniques
+<!--On est pas la pour les ça, mais si jamais :
+PC : Amiga 500 (bestselling)
+Sortie : 1987
+Résolution : 640×512 (PAL)
+CPU : ~7 Mhz
+RAM : 1MB (138 MB max)
 -->
 
+Demo (1991) : https://www.youtube.com/watch?v=iGpU3DicbLQ
+Demo (1993) : https://www.youtube.com/watch?v=iw17c70uJes
+Jeux (1991)) : Lemmings / Another Worlds / Monkey Island
+
+
+*voir comment présenter ça côte à côte*
+
 ---
 
-# Aujourd'hui
-![bg left:30%](https://pbs.twimg.com/media/GKO2i_uXUAAsCRI?format=jpg)
+# Démo récentes
+
+*parralèles entre les démo 64k et la taille de la vidéo ?*
+
+---
+
+# Autres formes
+Objectif : exploiter la technique d'une façon inattendue
+
+*Ray tracer dans MySQL ?*
+![](https://media.demozoo.org/screens/o/22/07/06f0.194494.png)
+
+*c donut dans la présentation ?*
+<iframe src="https://donut.surge.sh/"></iframe>
+
+*shader interactif avec la souris ?*
 
 ---
 
@@ -67,5 +86,12 @@ Pour aller plus loin :
 - https://demozoo.org/
 - https://github.com/psenough/teach_yourself_demoscene_in_14_days
 - https://demobasics.pixienop.net/
-- https://www.youtube.com/watch?v=uFFR31t1WMM
+- https://www.demoparty.net/
 
+<!--
+article au pif que j'ai trouvé : https://nickm.com/post/tag/demoscene/
+-->
+
+---
+
+# Merci pour votre écoute !
