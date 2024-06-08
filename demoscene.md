@@ -76,6 +76,17 @@ RAM : 1MB (138 MB max)
 
 ---
 
+<!--
+Je laisse la pour tester, mais pas sûr de le garder
+<div style="overflow:hidden; margin: 15px auto;">
+  <iframe scrolling="no" src="https://amiga.oszx.co/" 
+    style="margin-left: -15px; height: 900px; margin-top: -280px; width: 780px;">
+  </iframe>
+</div>
+-->
+
+---
+
 # Démo récentes
 
 *parralèles entre les démo 64k et la taille de la vidéo ?*
@@ -103,7 +114,7 @@ Des vrais bouts de Ray tracer dans mon MySQL
 Télécharger/regarder :
 - http://pouet.net/
 - https://curio.scene.org/
-
+- https://www.youtube.com/watch?v=5MexnBunH_g
 Tutoriels :
 - https://github.com/psenough/teach_yourself_demoscene_in_14_days
 - https://demobasics.pixienop.net/
