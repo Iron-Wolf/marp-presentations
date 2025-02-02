@@ -50,6 +50,7 @@ https://www.quantum-inspire.com/kbase/deutsch-jozsa-algorithm/
 - https://toutestquantique.fr/bases/
 - https://blog.google/technology/research/google-willow-quantum-chip/
 - https://www.sharetechnote.com/html/QC/QuantumComputing_BlochSphere.html
+  - https://www.utc.fr/~wschon/sr06/demonstrateur-algorithmes-quantiques-master/website/_site/qubitAnimation.html
 - https://algassert.com/quirk
   - https://cnot.io/quantum_computing/circuit_examples.html
 - https://github.com/Lumorti/Quandoom
