@@ -23,9 +23,9 @@ TODO 😎
 - photons
 - atomes neutres
 
-http://www.oezratty.net/wordpress/2018/comprendre-informatique-quantique-qubits/
-https://qc-at-davis.github.io/QCC/How-Quantum-Computing-Works/The-Qubit/The-Qubit.html
-https://www.ibm.com/fr-fr/topics/qubit
+http://www.oezratty.net/wordpress/2018/comprendre-informatique-quantique-qubits/  
+https://qc-at-davis.github.io/QCC/How-Quantum-Computing-Works/The-Qubit/The-Qubit.html  
+https://www.ibm.com/fr-fr/topics/qubit  
 
 ---
 # autres concepts
@@ -36,7 +36,7 @@ https://www.ibm.com/fr-fr/topics/qubit
 # algo
 - algo de shor (https://www.youtube.com/watch?v=FRZQ-efABeQ)
 
-https://www.quantum-inspire.com/kbase/deutsch-jozsa-algorithm/
+https://www.quantum-inspire.com/kbase/deutsch-jozsa-algorithm/  
 
 ---
 # Ressources
