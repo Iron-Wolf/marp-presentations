@@ -44,6 +44,7 @@ https://www.quantum-inspire.com/kbase/deutsch-jozsa-algorithm/
 - https://quantumzeitgeist.com/understanding-quantum-algorithms-a-beginners-guide/
 - https://thequantumlaend.de/basic-tutorial/
 - porte quantiques :
+  - https://medium.com/qc-applied-approach-to-build-your-own-quantum/introduction-to-quantum-logical-gates-part-i-80f95fa851a2
   - https://www.youtube.com/watch?v=rD_fH7O-D5Y&t=294s
   - https://www.youtube.com/watch?v=G9d0QWM82sU&pp=ygUVaG93IHF1YW50dW0gZ3RlcyB3b3Jr 
 - https://toutestquantique.fr/bases/
