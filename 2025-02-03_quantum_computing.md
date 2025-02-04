@@ -55,5 +55,8 @@ https://www.quantum-inspire.com/kbase/deutsch-jozsa-algorithm/
 - https://quantumzeitgeist.com/understanding-quantum-algorithms-a-beginners-guide/
   - https://algassert.com/quirk
   - https://cnot.io/quantum_computing/circuit_examples.html
+  - https://learning.quantum.ibm.com/
 - https://github.com/Lumorti/Quandoom
-
+  - https://olivierbrcknr.github.io/quantum-tetris/
+  - https://en.wikipedia.org/wiki/Quantum_tic-tac-toe
+- https://davidar.io/post/quantum-glsl
