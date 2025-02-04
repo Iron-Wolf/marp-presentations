@@ -15,9 +15,9 @@ TODO
 - intrication
 - décohérence
 
-https://toutestquantique.fr/bases/
-https://www.greelane.com/fr/science-technologie-math%C3%A9matiques/science/youngs-double-slit-experiment-2699034/
-https://www.eeweb.com/seeing-the-double-slit-experiment-for-the-first-time/
+https://toutestquantique.fr/bases/  
+https://www.greelane.com/fr/science-technologie-math%C3%A9matiques/science/youngs-double-slit-experiment-2699034/  
+https://www.eeweb.com/seeing-the-double-slit-experiment-for-the-first-time/  
 
 ---
 # QuBits
