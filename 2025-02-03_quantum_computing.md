@@ -19,6 +19,10 @@ https://toutestquantique.fr/bases/
 https://www.greelane.com/fr/science-technologie-math%C3%A9matiques/science/youngs-double-slit-experiment-2699034/  
 https://www.eeweb.com/seeing-the-double-slit-experiment-for-the-first-time/  
 
+spin :
+https://youtu.be/PFwSNC5UG4o?feature=shared&t=3821  
+https://www.matierevolution.fr/spip.php?article923
+
 ---
 # QuBits
 - supraconducteur (micro-ondes)
