@@ -66,3 +66,4 @@ https://www.quantum-inspire.com/kbase/deutsch-jozsa-algorithm/
   - https://olivierbrcknr.github.io/quantum-tetris/
   - https://en.wikipedia.org/wiki/Quantum_tic-tac-toe
 - https://davidar.io/post/quantum-glsl
+- https://quantumcomputingreport.com/gqi-quantum-heros/
