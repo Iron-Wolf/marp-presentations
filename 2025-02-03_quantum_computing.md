@@ -35,6 +35,8 @@ http://www.oezratty.net/wordpress/2018/comprendre-informatique-quantique-qubits/
 https://qc-at-davis.github.io/QCC/How-Quantum-Computing-Works/The-Qubit/The-Qubit.html  
 https://thequantuminsider.com/2020/05/21/tqd-exclusive-a-detailed-review-of-qubit-implementations-for-quantum-computing/  
 https://www.ibm.com/fr-fr/topics/qubit  
+https://lemasyma.github.io/cours/posts/epiquanti_type_qubit/  
+https://ichi.pro/fr/qc-comment-construire-un-ordinateur-quantique-avec-des-ions-pieges-150329638786180  
 
 ---
 # autres concepts
